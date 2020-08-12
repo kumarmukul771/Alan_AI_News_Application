@@ -1,0 +1,2 @@
+npm i @alan-ai/alan-sdk-web @material-ui/core classnames words-to-numbers
+=>rafce (react snippet extension to auto complete code)
