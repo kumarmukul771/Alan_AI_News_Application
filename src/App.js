@@ -2,8 +2,7 @@ import React, { useEffect,useState } from "react";
 import alanBtn from "@alan-ai/alan-sdk-web";
 import NewsCards from "./components/NewsCards/NewsCards";
 
-const alanKey =
-  "c5f1ccf350945de2516d9a6d682d0a742e956eca572e1d8b807a3e2338fdd0dc/stage";
+const alanKey ;
 
 function App() {
   const [newsArticles , setNewsArticles] = useState([]);
